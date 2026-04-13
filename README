@@ -1,0 +1,15 @@
+Sunt utilizate metode de prelucrare a datelor, analiză statistică și modele econometrice.
+
+## Funcționalități
+- tratarea valorilor lipsă și extreme
+- agregări și analize statistice
+- vizualizări interactive
+- clusterizare (KMeans)
+- regresie multiplă (OLS)
+
+## Tehnologii utilizate
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Statsmodels
+- Streamlit
